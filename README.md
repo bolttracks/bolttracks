@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bolttracks
+- 👀 I’m interested in all things game audio.
+- 🌱 I’m currently learning MetaSounds, Blueprints, and other audio implementation related things.
+- 📫 How to reach me: bolttracks.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I recently went to Zimbabwe on a field recording expedition.
