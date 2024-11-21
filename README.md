@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bolttracks
 - 👀 I’m interested in all things game audio.
+- 🏢 I'm currently working with Giant Light Studios and Home Team, help organize Game Audio Boston, and I'm co-writing a book on REAPER!
 - 🌱 I’m currently learning MetaSounds, Blueprints, and other audio implementation related things.
 - 📫 How to reach me: bolttracks.com
 - 😄 Pronouns: he/him
