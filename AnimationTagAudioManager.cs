@@ -5,6 +5,8 @@ using UnityEngine;
 public class AnimationTagAudioManager : MonoBehaviour
 {
     //Replace AnimTag with the desired name for your property drawers
+    //Choose a descriptive header name (like "Locmootion" or "Sweeteners")
+
     [Header("Section A")]
     public AK.Wwise.Event AnimTag1;
     public AK.Wwise.Event AnimTag2;
@@ -16,7 +18,7 @@ public class AnimationTagAudioManager : MonoBehaviour
     public AK.Wwise.Event AnimTag6;
     public AK.Wwise.Event AnimTag7;
 
-    //Choose a descriptive header name (or mirror names above)
+
     #region SectionA
 
     void animTag1()
